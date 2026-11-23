@@ -1,6 +1,10 @@
 
 * Changelog
 
+2.x changes are in [[file:../CHANGELOG.md][CHANGELOG.md]] (Keep a Changelog + [[https://github.com/salotz/rfcs/tree/master/rfcs/salotz.002_semantic-changelog][RFC 002]]).
+
+This file retains the 1.x history.
+
 Adapted from [[https://keepachangelog.com][keepachangelog.com]] for org-mode.
 
 See the git commit log history for full details.
